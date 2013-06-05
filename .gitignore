@@ -14,3 +14,9 @@
 
 Debug/
 ipch/
+
+# Visual studio
+*.sdf
+*.sln
+*.vcxproj
+*.filters
